@@ -3,6 +3,7 @@
 ## Преамбула
 Старых версий (1.x.x) больше нет, так как полностью пеработана библиотека и они были не для публичного использования. </br>
 То, что написано в особенностях, лишь указывает с какой версии они появились, будут появляться или могут появиться. </br>
+Не заметил, что слово Tensor уже занято, так что в слудующем обновление всё будет переименованно в tenzor.
 
 ---
 
@@ -266,7 +267,7 @@ useLightingEffect будет хорошо работать с видео, где
 "use client";
 import { FC } from "react";
 
-import { TensorPlayer } from "tensor";
+import { TensorPlayer } from "tenzor";
 import { FileStorageProps } from "@shared/types/system/storage.interfaces";
 
 export const CardVideo: FC<FileStorageProps> = ({...props}) => {

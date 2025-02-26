@@ -1,0 +1,56 @@
+{
+  "name": "tensor",
+  "description": "библиотека для воспроизведения видео в React и NextJS",
+  "homepage": "https://www.npmjs.com/package/teszor",
+  "author": {
+    "name": "Weierstrass",
+    "email": "literteams@gmail.com",
+    "url": "https://github.com/LiterTeams"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LiterTeams/Tensor"
+  },
+  "keywords": [
+    "video",
+    "react",
+    "nextjs",
+    "video-player",
+    "react-video-player",
+    "nextjs-video-player",
+    "typescript"
+  ],
+  "version": "2.0.0",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "license": "MIT",
+  "packageManager": "yarn@4.6.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "tailwind-merge": "^3.0.0",
+    "tailwindcss": ">=3.4.1 <4.0.0"
+  },
+  "peerDependencies": {
+    "next": ">=14.0.0",
+    "react": ">=18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10",
+    "esbuild-plugin-css-modules": "^0.3.0",
+    "eslint": "^9",
+    "postcss": "^8",
+    "prettier": "^3",
+    "react": "^18",
+    "react-dom": "^18",
+    "tsup": "^8.3.6",
+    "typescript": "^5"
+  }
+}

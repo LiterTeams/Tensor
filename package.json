@@ -1,7 +1,7 @@
 {
   "name": "tensor",
   "description": "библиотека для воспроизведения видео в React и NextJS",
-  "homepage": "https://www.npmjs.com/package/teszor",
+  "homepage": "https://www.npmjs.com/package/tensor",
   "author": {
     "name": "Weierstrass",
     "email": "literteams@gmail.com",

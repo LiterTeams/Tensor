@@ -1,7 +1,7 @@
 {
-  "name": "tensor",
+  "name": "tenzor",
   "description": "библиотека для воспроизведения видео в React и NextJS",
-  "homepage": "https://www.npmjs.com/package/tensor",
+  "homepage": "https://www.npmjs.com/package/tenzor",
   "author": {
     "name": "Weierstrass",
     "email": "literteams@gmail.com",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LiterTeams/Tensor"
+    "url": "https://github.com/LiterTeams/Tenzor"
   },
   "keywords": [
     "video",
